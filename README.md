@@ -1,5 +1,3 @@
-Here is a professionally structured README.md file tailored to your repository. It highlights the tech stack (Python/Django, based on the presence of manage.py and db.sqlite3) and provides clear instructions for setup and usage.
-
 Voting Application
 A robust and secure web-based voting platform built with Python and Django. This application allows for efficient vote casting, administrative management, and real-time result visualization using a SQLite3 backend.
 
